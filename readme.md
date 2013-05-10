@@ -6,4 +6,4 @@ Make sure to configure the script by copying config.example.php to config.php an
 
 Improved version of Pexat's Envato Marketplace Purchase Verifier.
 
-### Built with love by (Higher Ground Studio)[http://codecanyon.net/user/HigherGroundStudio?ref=highergroundstudio]
+### Built with love by [Higher Ground Studio](http://codecanyon.net/user/HigherGroundStudio?ref=highergroundstudio)
